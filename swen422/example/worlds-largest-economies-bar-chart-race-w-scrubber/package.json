@@ -1,0 +1,14 @@
+{
+  "name": "@talyellin/worlds-largest-economies-bar-chart-race-w-scrubber",
+  "main": "0b3027e330fa8fb6@3300.js",
+  "version": "3300.0.0",
+  "homepage": "https://observablehq.com/@talyellin/worlds-largest-economies-bar-chart-race-w-scrubber",
+  "author": {
+    "name": "tal yellin",
+    "url": "https://observablehq.com/@talyellin"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
